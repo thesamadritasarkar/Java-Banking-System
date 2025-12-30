@@ -5,7 +5,7 @@ This project demonstrates **object-oriented programming (OOP)** principles, clea
 
 ---
 
-## 🚀 Features
+## Features
 - Create bank accounts
 - Deposit money
 - Withdraw money
@@ -14,14 +14,14 @@ This project demonstrates **object-oriented programming (OOP)** principles, clea
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Java (Core Java)
 - Console-based execution
 - No external frameworks
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 - Object-Oriented Programming (OOP)
 - Classes and Objects
 - Encapsulation
@@ -30,18 +30,18 @@ This project demonstrates **object-oriented programming (OOP)** principles, clea
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository  
 2. Open the project in VS Code / IntelliJ / Eclipse  
 3. Compile and run:
 
 ---
 
-## 📌 What This Project Demonstrates
+## What This Project Demonstrates
 - Strong understanding of Java fundamentals
 - Real-world problem modeling using OOP
 - Clean separation of responsibilities between classes
@@ -50,7 +50,7 @@ This project demonstrates **object-oriented programming (OOP)** principles, clea
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Add database support (MySQL / file-based)
 - Add persistence for accounts and transactions
 - Convert to Spring Boot REST API
@@ -58,7 +58,7 @@ This project demonstrates **object-oriented programming (OOP)** principles, clea
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Samadrita Sarkar**  
 Computer Science & Engineering Student  
 Core Java | OOP | Backend Logic
